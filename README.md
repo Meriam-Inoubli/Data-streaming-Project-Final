@@ -144,6 +144,6 @@ For questions or any information, please reach out to [meriam.inoubli@dauphine.t
 ## Visualization Example
 
 Below is an example of the visualization dashboard displaying the average prices per symbol for each 10-minute window.
+![alt text](image.png)
 
-![Average Price Visualization](Kafka-flink-project\png\Capture d'écran 2024-12-16 000855.png)
 
