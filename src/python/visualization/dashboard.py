@@ -81,7 +81,6 @@ def generate_price_graph():
     )
 
 # Function to generate the order book graph (max bid and ask)
-# Function to generate the order book graph (max bid and ask)
 def generate_order_book_graph():
     symbols = list(latest_order_book_data.keys())
 
